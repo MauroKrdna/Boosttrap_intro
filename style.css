@@ -1,0 +1,22 @@
+.col-green{
+    background: #84c26d;
+}
+
+.col-green img{
+    height: 20%;
+    display: block;
+    margin: 0 auto;
+}
+
+.col-red{
+    background: rgb(153, 21, 21);
+}
+.col-red img{
+    height: 95%;
+    display: block; /* Display: block para asociarla a un bloque y luego central el bloque  */
+    margin: 0 auto;
+}
+
+.p-6{
+    padding: 80px;
+}
